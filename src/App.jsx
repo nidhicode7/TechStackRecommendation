@@ -12,7 +12,7 @@ function App() {
     setLoading(true);
     setError(null);
     try {
-      const response = await fetch('http://localhost:5000/recommend', {
+      const response = await fetch(import.meta.env.VITE_BACKEND_URL + '/recommend', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
