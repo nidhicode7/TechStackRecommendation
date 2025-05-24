@@ -77,7 +77,7 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 
 
-**1. Project Structure and Root Files**
+**Project Structure and Root Files**
 
 The project directory contains the following main items:
 
