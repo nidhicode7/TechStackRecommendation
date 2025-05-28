@@ -2,7 +2,7 @@
 
 # 🚀 Tech Stack Recommendation System
 
-> **Live Demo:** [View Project](https://tech-stack-recommendation-6w3m-gwpj4dqrz-nidhishaas-projects.vercel.app)
+> **Live Demo:** [View Project](https://tech-stack-recommendation-6w3m.vercel.app)
 
 The **Tech Stack Recommendation System** is an intelligent web application that suggests the best technologies to use based on a user’s project requirements. Whether you're building a web app, mobile app, data science tool, or enterprise software, this tool helps streamline your development process by recommending the most suitable frontend, backend, and database technologies.
 
