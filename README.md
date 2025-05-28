@@ -30,23 +30,61 @@ The **Tech Stack Recommendation System** is an intelligent web application that 
 
 
 
-## 📂 How to Run Locally
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/tech-stack-recommendation.git
-
-# Navigate to project directory
-cd tech-stack-recommendation
-
-# Install dependencies
-npm install
-
-# Run the app
-npm start
-```
+Here’s a clean, well-formatted version of your message that you can directly copy and paste into your GitHub `README.md`:
 
 ---
+
+## 🚀 Running the Application Locally
+
+Follow these steps to run both the backend and frontend of the application on your local machine:
+
+### 1. Open Two Terminal Windows
+
+Navigate to the project’s root directory in both terminals:
+
+
+
+
+### 2. Start the Backend Server (First Terminal)
+
+```bash
+npm run server
+```
+
+Wait until you see a message like:
+
+```
+Server running on http://localhost:5000(your port number)
+```
+
+Or another port specified in your `.env` file.
+
+### 3. Start the Frontend Development Server (Second Terminal)
+
+```bash
+npm run dev
+```
+
+This will start the Vite development server. You'll see an output like:
+
+```
+VITE vX.X.X  ready in X ms
+
+  ➜  Local:   http://localhost:5173/
+```
+
+### 4. Open in Browser
+
+Visit the frontend URL in your browser:
+
+```
+http://localhost:5173/
+```
+
+Your frontend should now be running and communicating with the backend.
+
+---
+
 
 ## 🧠 Future Improvements
 
